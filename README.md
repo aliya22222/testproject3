@@ -16,4 +16,5 @@
 2. Скачайте проект в папку.
 3. Запустите команду:
 ```bash
+https://github.com/aliya22222/testproject3.git
 python main.py
